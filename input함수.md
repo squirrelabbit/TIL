@@ -5,16 +5,12 @@ print(str_num, type(str_num))
 num = int(str_num)
 print(num, type(num))
 
-
-
 vs
-
-
 
 num = int(input())
 print(num, type(num))
 
-
+------
 
 1번풀이
 
@@ -34,4 +30,18 @@ print(num_a)
 
 [map함수]([TIL/map함수.md at master · squirrelabbit/TIL (github.com)](https://github.com/squirrelabbit/TIL/blob/master/map함수.md))
 
-nums = map(int(), input().split()))
+```
+nums = map(int, input().split()))
+```
+
+```
+first = input()
+second = first.split()
+third = map(int, second)
+fourth = list(third)
+print('처음: ', first)
+print('두번째: ', second)
+print('세번째: ', third)
+print('네번째: ', fourth)
+```
+

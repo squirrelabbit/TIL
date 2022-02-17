@@ -1,0 +1,8 @@
+first = input()
+second = first.split()
+third = map(int, second)
+fourth = list(third)
+print('처음: ', first)
+print('두번째: ', second)
+print('세번째: ', third)
+print('네번째: ', fourth)

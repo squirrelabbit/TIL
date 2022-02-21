@@ -54,31 +54,22 @@
 
 
 ## 3 . 알고리즘 스터디
-- 알고리즘 과정중 정리 문법
+### 알고리즘 과정중 정리 문법
 
   - 비트연산자
-
   - 딕셔너리 구조화
-
   - formatting
-
   - input함수
-
   - map함수
-
   - 파이썬 슬라이싱
-
   - 행렬 좌표배치
   - 리스트 연산
-  
+
+### SW
 - 4828 min_max
-
 - [4834 숫자카드](https://github.com/squirrelabbit/TIL/blob/master/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/4834%20%EC%88%AB%EC%9E%90%EC%B9%B4%EB%93%9C.md)
-
 - 4835 구간합
-
 - [4836 색칠하기](https://github.com/squirrelabbit/TIL/blob/master/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/4836_coloring.md)
-
 - [4837 부분집합 합](https://github.com/squirrelabbit/TIL/blob/master/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/4837_%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9%EC%9D%98%20%ED%95%A9.md)(#어렵#비트연산)
 
   - 이론(비트)
@@ -86,8 +77,10 @@
   - 부분집합 만들기
 
   - 부분집합 합하기
-
 - 4861 회문
+
+### 백준
+- BJ2935_noise
 
 
 
@@ -98,3 +91,10 @@
 - Omicron 3rd wave
 - visualizing-covid-trends-with-animations
 
+
+
+# 5. 프로젝트
+
+1. 워크넷 웹크롤링
+2. 네이버 지도 크롤링/ 최소거리찾기
+3. 아이허브 추천알고리즘

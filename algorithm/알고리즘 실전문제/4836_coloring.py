@@ -19,8 +19,8 @@ for tc in range(1, T+1):
             for i in range(a,c+1):
                 for j in range(b,d+1):
                     e2_list.append((i,j))
-
-
+    print(e1_list)
+    print(e2_list)
     answer = len(list(set(e1_list) & set(e2_list))) # 교집합갯수 set과정에서 중복값사라지면서 합집합이 됨
             
     #최종 출력 예시

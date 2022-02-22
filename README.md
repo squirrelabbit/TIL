@@ -47,8 +47,7 @@
 
 ### 5. 딥러닝
 
-  - [딥러닝 프로세스][(https://github.com/squirrelabbit/TIL/blob/master/5.deeplearning/%EB%94%A5%EB%9F%AC%EB%8B%9D%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.md)]
-
+  - [딥러닝 프로세스](https://github.com/squirrelabbit/TIL/blob/master/5.deeplearning/%EB%94%A5%EB%9F%AC%EB%8B%9D%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.md)
     - 딥러닝 vs 머신러닝
     - perceptron이란
     
@@ -56,8 +55,7 @@
     
     - 딥러닝 실행
     
-- [딥러닝 keras 코드][(https://github.com/squirrelabbit/TIL/blob/master/5.deeplearning/%EB%94%A5%EB%9F%AC%EB%8B%9D%20keras%20%EC%BD%94%EB%93%9C.md)]
-  
+- [딥러닝 keras 코드](https://github.com/squirrelabbit/TIL/blob/master/5.deeplearning/%EB%94%A5%EB%9F%AC%EB%8B%9D%20keras%20%EC%BD%94%EB%93%9C.md)
   - ThoraricSurgery(dense =2)
   - Pima_Indian (dense=3)
 

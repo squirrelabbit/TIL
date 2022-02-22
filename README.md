@@ -1,36 +1,35 @@
 # TIL
 
-## 1. 멀티캠퍼스 정규과정(12/13~)
+## 멀티캠퍼스 정규과정(12/13~)
 
-- 파이썬 기본 문법
+### 1. 파이썬 기본 문법
 
-  - 리스트
+- 리스트
 
-  - 문자열
+- 문자열
 
-  - 딕셔너리
+- 딕셔너리
 
-- 웹크롤링 
+### 2. 웹크롤링 
 
-  - EDA
+- EDA
 
-- 머신러닝
+### 3. 머신러닝
+- 1. 넘파이 사이킷런
 
-  - 1. 넘파이 사이킷런
+  2. 표본추출
 
-    1. 표본추출
+  3. 데이터 전처리
 
-    2. 데이터 전처리
+  4. [평가(evaluation)](https://github.com/squirrelabbit/TIL/blob/master/2.%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/3.%20%ED%8F%89%EA%B0%80(evaluation).md)
 
-    4. [평가(evaluation)](https://github.com/squirrelabbit/TIL/blob/master/2.%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/3.%20%ED%8F%89%EA%B0%80(evaluation).md)
+  5. [회귀분석(regression)](https://github.com/squirrelabbit/TIL/blob/master/2.%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/5.%20%ED%9A%8C%EA%B7%80(regression).md)
 
-    4. [회귀분석(regression)](https://github.com/squirrelabbit/TIL/blob/master/2.%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/5.%20%ED%9A%8C%EA%B7%80(regression).md)
-
-    5. [분류(classification)](https://github.com/squirrelabbit/TIL/blob/master/2.%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/4.%20%EB%B6%84%EB%A5%98(classification).md)
-    
-       
+  6. [분류(classification)](https://github.com/squirrelabbit/TIL/blob/master/2.%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/4.%20%EB%B6%84%EB%A5%98(classification).md)
   
-- 추천 알고리즘
+     
+
+### 4. 추천 알고리즘
 
   - [CBF](https://github.com/squirrelabbit/TIL/blob/master/3.%EC%B6%94%EC%B2%9C%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/CBF.md)
 
@@ -42,39 +41,25 @@
 
     
 
-- 딥러닝
+### 5. 딥러닝
 
-  - 딥러닝 프로세스
+  - [딥러닝 프로세스](https://github.com/squirrelabbit/TIL/blob/master/5.deeplearning/%EB%94%A5%EB%9F%AC%EB%8B%9D%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.md)
 
     - 딥러닝 vs 머신러닝
-
-    - perceptron이란
-
+- perceptron이란
     - 딥러닝 구조
-
-      덴스함수
-
-      인풋레이어
-
-      히든레이어(relu)
-
-      아웃풋레이어(sigmoid)
 
     - 딥러닝 실행
 
-      epochs
+  - 딥러닝 keras 코드
+    - ThoraricSurgery(dense =2)
+    - Pima_Indian (dense=3)
 
-      batchsize
-
-      최적화 과정
-
-    
-
-- 자연어처리(NLP)
+### 6. 자연어처리(NLP)
 
   
 
-## 2. 특강
+## 특강
 
 - [깃허브특강](https://github.com/squirrelabbit/TIL/blob/master/%EA%B9%83/%EA%B9%83%ED%97%88%EB%B8%8C%ED%8A%B9%EA%B0%95.md)
   - [마크다운 문법](https://github.com/squirrelabbit/TIL/blob/master/%EA%B9%83/markdown-basic.md)
@@ -82,7 +67,7 @@
 
 
 
-## 3 . 알고리즘 스터디
+## 알고리즘 스터디
 ### 알고리즘 과정중 정리 문법
 
   - 비트연산자
@@ -111,7 +96,9 @@
 
 
 
-# 4. Kaggle code 공부
+## Kaggle code 공부
+
+## 1. 코로나 바이러스
 
 - Omicron vs Delta
 - omicron daily analysis(EDA)
@@ -120,8 +107,8 @@
 
 
 
-# 5. 프로젝트
+# 개인 프로젝트
 
-1. 워크넷 웹크롤링
-2. 네이버 지도 크롤링/ 최소거리찾기
-3. 아이허브 추천알고리즘
+## 1.워크넷 웹크롤링
+## 2. 네이버 지도 크롤링/ 최소거리찾기
+## 3. 아이허브 추천알고리즘

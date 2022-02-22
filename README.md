@@ -13,6 +13,9 @@
 ### 2. 웹크롤링 
 
 - EDA
+
+  - [matplolib](https://github.com/squirrelabbit/TIL/blob/master/matplolib.md)
+
   - [상관관계](https://github.com/squirrelabbit/TIL/blob/master/%EC%83%81%EA%B4%80%EA%B4%80%EA%B3%84%20EDA.md)
 
 ### 3. 머신러닝

@@ -2,7 +2,7 @@
 
 ## 1. 멀티캠퍼스 정규과정(12/13~)
 
-- 1. 파이썬 기본 문법
+- 파이썬 기본 문법
 
   - 리스트
 
@@ -10,11 +10,11 @@
 
   - 딕셔너리
 
-- 2. 웹크롤링 
+- 웹크롤링 
 
-     EDA
+  - EDA
 
-- 3. 머신러닝
+- 머신러닝
 
   - 1. 넘파이 사이킷런
 
@@ -30,7 +30,7 @@
     
        
   
-- 4. 추천 알고리즘
+- 추천 알고리즘
 
   - [CBF](https://github.com/squirrelabbit/TIL/blob/master/3.%EC%B6%94%EC%B2%9C%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/CBF.md)
 
@@ -42,8 +42,37 @@
 
     
 
-- 5. 자연어처리(NLP)
-- 6. 딥러닝
+- 딥러닝
+
+  - 딥러닝 프로세스
+
+    - 딥러닝 vs 머신러닝
+
+    - perceptron이란
+
+    - 딥러닝 구조
+
+      덴스함수
+
+      인풋레이어
+
+      히든레이어(relu)
+
+      아웃풋레이어(sigmoid)
+
+    - 딥러닝 실행
+
+      epochs
+
+      batchsize
+
+      최적화 과정
+
+    
+
+- 자연어처리(NLP)
+
+  
 
 ## 2. 특강
 
@@ -71,16 +100,14 @@
 - 4835 구간합
 - [4836 색칠하기](https://github.com/squirrelabbit/TIL/blob/master/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/4836_coloring.md)
 - [4837 부분집합 합](https://github.com/squirrelabbit/TIL/blob/master/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/4837_%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9%EC%9D%98%20%ED%95%A9.md)(#어렵#비트연산)
-
-  - 이론(비트)
-
+- 이론(비트)
   - 부분집합 만들기
-
-  - 부분집합 합하기
+- 부분집합 합하기
+- 4839 이진탐색
 - 4861 회문
 
 ### 백준
-- BJ2935_noise
+- [BJ2935_noise](https://github.com/squirrelabbit/TIL/blob/master/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/BJ2935_noise.md)
 
 
 

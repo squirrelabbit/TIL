@@ -15,7 +15,7 @@
 - EDA
 
   - [matplolib](https://github.com/squirrelabbit/TIL/blob/master/matplolib.md)
-
+  - seaborn
   - [상관관계](https://github.com/squirrelabbit/TIL/blob/master/%EC%83%81%EA%B4%80%EA%B4%80%EA%B3%84%20EDA.md)
 
 ### 3. 머신러닝
@@ -48,16 +48,24 @@
 ### 5. 딥러닝
 
   - [딥러닝 프로세스](https://github.com/squirrelabbit/TIL/blob/master/5.deeplearning/%EB%94%A5%EB%9F%AC%EB%8B%9D%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.md)
-    - 딥러닝 vs 머신러닝
-    - perceptron이란
+    - 딥러닝 프로세스
     
-    - 딥러닝 구조
+    - XOR문제(다층퍼셉트론/오차역전파/시그모이드)
     
-    - 딥러닝 실행
+    - 기울기소실문제(시그모이드외 활성화함수도입)
+    
+    - 확률적경사하강법(아담)
+    
+    - 다중분류문제해결(소프트맥스 활성화함수)
+    
+    - 과적합(train_set,test_set분류)-early stopping
+    
+      
     
 - [딥러닝 keras 코드](https://github.com/squirrelabbit/TIL/blob/master/5.deeplearning/%EB%94%A5%EB%9F%AC%EB%8B%9D%20keras%20%EC%BD%94%EB%93%9C.md)
   - ThoraricSurgery(dense =2)
   - Pima_Indian (dense=3)
+  - sonar (overfitting)
 
 ### 6. 자연어처리(NLP)
 
@@ -75,23 +83,26 @@
 ### 알고리즘 과정중 정리 문법
 
   - 비트연산자
+
   - 딕셔너리 구조화
+
   - formatting
+
   - input함수
+
   - map함수
+
   - 파이썬 슬라이싱
+
   - 행렬 좌표배치
-  - 리스트 연산
+
+    
 
 ### SW
 - 4828 min_max
-
 - [4834 숫자카드](https://github.com/squirrelabbit/TIL/blob/master/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/4834%20%EC%88%AB%EC%9E%90%EC%B9%B4%EB%93%9C.md)
-
 - 4835 구간합
-
 - [4836 색칠하기](https://github.com/squirrelabbit/TIL/blob/master/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/4836_coloring.md)
-
 - [4837 부분집합 합](https://github.com/squirrelabbit/TIL/blob/master/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/4837_%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9%EC%9D%98%20%ED%95%A9.md)(#어렵#비트연산)
 
   - 이론(비트)
@@ -99,9 +110,8 @@
   - 부분집합 만들기
 
   - 부분집합 합하기
-
 - [4839 이진탐색](https://github.com/squirrelabbit/TIL/blob/master/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/4839_binarysearch.md)
-
+- 4843_특별한정렬
 - 4861 회문
 
 ### 백준
@@ -114,9 +124,16 @@
 ## 1. 코로나 바이러스
 
 - Omicron vs Delta
+
 - omicron daily analysis(EDA)
+
 - Omicron 3rd wave
+
 - visualizing-covid-trends-with-animations
+
+  
+
+------
 
 
 

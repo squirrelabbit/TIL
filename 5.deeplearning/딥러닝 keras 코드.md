@@ -107,3 +107,72 @@ model.fit(X, Y, epochs=200, batch_size=10)
 print("\n Accuracy: %.4f" % (model.evaluate(X, Y)[1]))
 ```
 
+# 테스트 셋 split(음파데이터)
+
+```python
+from keras.models import Sequential
+from keras.layers.core import Dense
+from sklearn.preprocessing import LabelEncoder
+from sklearn.model_selection import train_test_split
+
+import pandas as pd
+import numpy as np
+import tensorflow as tf
+
+# seed 값 설정
+seed = 0
+numpy.random.seed(seed)
+tf.random.set_seed(3)
+
+# 데이터 로드 및 확인
+df = pd.read_csv('dataset/sonar.csv', header=None)
+
+
+
+dataset = df.values
+# 피처 데이터, 타깃 데이터 분리
+X = dataset[:, 0:60]
+Y_obj = dataset[:, 60]
+
+# 원핫 인코딩
+e = LabelEncoder()
+e.fit(Y_obj)
+Y = e.transform(Y_obj)
+
+# 학습 셋과 테스트 셋의 구분
+X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.3, random_state=seed)
+
+# X_train 피처는 'float32' 타입으로 만들어줘야 학습이 가능
+X_train = np.asarray(X_train).astype('float32')
+
+
+# X_test 피처도 'float32' 타입으로 만들어준다.
+X_test = np.asarray(X_test).astype('float32')
+
+
+print(X_train.shape)
+print(X_test.shape)
+print(Y_train.shape)
+print(Y_test.shape)
+
+
+# 모델 정의
+model = Sequential()                                    
+model.add(Dense(24,  input_dim=60, activation='relu'))  # 입력층 노드 수 60개(relu) / # 은닉층1 노드 수 24개(relu)
+model.add(Dense(10, activation='relu'))                 # 은닉층2 노드 수 10개(relu)
+model.add(Dense(1, activation='sigmoid'))               # 출력층 노드 수 1개(sigmoid로 이진 분류)
+
+model.compile(loss='binary_crossentropy',
+            optimizer='adam',
+            metrics=['accuracy'])
+
+# 모델 학습
+model.fit(X_train, Y_train, epochs=130, batch_size=5)
+
+# 테스트셋에 모델 적용
+print("\n Test Accuracy: %.4f" % (model.evaluate(X_test, Y_test)[1]))
+
+-> 정확도가 0.8571이 나온다. (앞 예제에서 학습셋으로 테스트 했더니 1.0 정확도(과적합)가 나왔던 것과 비교)
+
+```
+

@@ -137,3 +137,6 @@ model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy']
 model.fit(padded_x, classes, epochs=20)
 ```
 
+token.text_to_word_sequence()
+
+token.texts_to_sequence()

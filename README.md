@@ -63,12 +63,43 @@
       
     
 - [딥러닝 keras 코드](https://github.com/squirrelabbit/TIL/blob/master/5.deeplearning/%EB%94%A5%EB%9F%AC%EB%8B%9D%20keras%20%EC%BD%94%EB%93%9C.md)
+  
   - ThoraricSurgery(dense =2)
   - Pima_Indian (dense=3)
   - sonar (overfitting)
 
 ### 6. 자연어처리(NLP)
 
+#### [자연어 처리](https://github.com/squirrelabbit/TIL/blob/master/4.%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC/%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC%20(NLP).md)
+
+- 토큰화(text_to_word_sequence() )
+
+- Tokenizer()
+
+  token = Tokenizer()             # 토큰화 함수 지정
+  token.fit_on_texts(docs)        # 토큰화 함수에 문장 적용
+
+  - #각 단어 빈도수 : .word_counts
+    token.word_counts
+  - #총 문장 수 : .document_count
+    token.document_count
+  - #각 단어가 몇개의 문장에 포함되어 있는가 : .word_docs
+     token.word_docs
+  - #각 단어에 매겨진 인덱스 값 : .word_index
+     token.word_index)
+  
+- embeded()
+
+  ```
+  Embedding(16, 4, input_length=2) : 총 입력되는 단어 수는 16개, 임베딩 후 출력되는 벡터 크기는 4, 단어를 매번 2개씩 집어 넣겠다는 뜻
+  
+  model.add(Embedding(26, 10, input_length=4))
+  ```
+  
+- pad_sequence()
+  
+  토큰화->token.
+  
   
 
 ## 특강
@@ -111,7 +142,7 @@
 
   - 부분집합 합하기
 - [4839 이진탐색](https://github.com/squirrelabbit/TIL/blob/master/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/4839_binarysearch.md)
-- 4843_특별한정렬
+- [4843_특별한정렬](https://github.com/squirrelabbit/TIL/blob/master/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/4839_binarysearch.md)
 - 4861 회문
 
 ### 백준

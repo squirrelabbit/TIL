@@ -28,3 +28,6 @@ for tc in range(1,T +1 ):
     print('#{} {}'.format(tc, answer))
 ```
 
+추가사항
+
+reverse()함수이용해서 max값찾아보기

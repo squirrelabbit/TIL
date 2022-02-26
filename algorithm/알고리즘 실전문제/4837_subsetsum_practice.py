@@ -6,9 +6,9 @@ for tc in range(1, T + 1):
     # 부분집합구하기
     subset = [] #부분집합 리스트
     for i in range(1 << 12):
-        element = [] #부분집합
+        element = [] #부분집합 [3,4]
         for j in range(12):
-            if i & (1<<j):
+            if i & (1<<j): 
                 element.append(A[j])
         if len(element) == N:
             subset.append(element)

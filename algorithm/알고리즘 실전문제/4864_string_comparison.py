@@ -6,9 +6,9 @@ for tc in range(1, T + 1):
     N = len(str1)
     M = len(str2)
     str2subsetN =[] #N개의 문자열을가진 str2의 부분집합문자열
-    
+    str2 = zzzzzabczzzzzz
     for i in range(M-N+1): 
-        #M-N+개째에서부터 N개의 문자열을 구하면 전체가끝이나므로 끝숫자는 미만을 뜻하므로 1을 더해줌
+        #M-N개째에서부터 N개의 문자열을 구하면 전체가끝이나므로 끝숫자는 미만을 뜻하므로 1을 더해줌
         str2subsetN.append(str2[i:i+N]) #문자열슬라이싱으로 구함
     
     if not str2subsetN.count(str1) ==0: 

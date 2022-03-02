@@ -5,7 +5,15 @@
 ### 1. 파이썬 기본 문법
 
 - [리스트](https://github.com/squirrelabbit/TIL/blob/master/0.%ED%8C%8C%EC%9D%B4%EC%8D%AC/%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
+
+- [2차원 리스트 배열](https://github.com/squirrelabbit/TIL/blob/master/0.%ED%8C%8C%EC%9D%B4%EC%8D%AC/2%EC%B0%A8%EC%9B%90%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%EB%AC%B8%EC%A0%9C.md)
+
+  지그재그배열
+
+  달팽이배열
+
 - [문자열](https://github.com/squirrelabbit/TIL/blob/master/0.%ED%8C%8C%EC%9D%B4%EC%8D%AC/%EB%AC%B8%EC%9E%90%EC%97%B4.md)
+
 - [딕셔너리](https://github.com/squirrelabbit/TIL/blob/master/0.%ED%8C%8C%EC%9D%B4%EC%8D%AC/%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC.md)
 
 ### 2. 웹크롤링 

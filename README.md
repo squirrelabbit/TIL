@@ -100,8 +100,8 @@
   
   토큰화->token.
   
-#### if \_\_name\_\_ == \_\_main\_\_
-#### 정규식을 통한 noise 제거
+#### [if \_\_name\_\_ == \_\_main\_\_](https://github.com/squirrelabbit/TIL/blob/master/4.%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC/if%20__name__%20%3D%3D%20__main__.md)
+#### [정규식을 통한 noise 제거](https://github.com/squirrelabbit/TIL/blob/master/4.%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC/%EC%A0%95%EA%B7%9C%EC%8B%9D.md)
 
 ## 특강
 

@@ -4,11 +4,9 @@
 
 ### 1. 파이썬 기본 문법
 
-- 리스트
-
-- 문자열
-
-- 딕셔너리
+- [리스트](https://github.com/squirrelabbit/TIL/blob/master/0.%ED%8C%8C%EC%9D%B4%EC%8D%AC/%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
+- [문자열](https://github.com/squirrelabbit/TIL/blob/master/0.%ED%8C%8C%EC%9D%B4%EC%8D%AC/%EB%AC%B8%EC%9E%90%EC%97%B4.md)
+- [딕셔너리](https://github.com/squirrelabbit/TIL/blob/master/0.%ED%8C%8C%EC%9D%B4%EC%8D%AC/%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC.md)
 
 ### 2. 웹크롤링 
 
@@ -17,6 +15,7 @@
   - [matplolib](https://github.com/squirrelabbit/TIL/blob/master/matplolib.md)
   - seaborn
   - [상관관계](https://github.com/squirrelabbit/TIL/blob/master/%EC%83%81%EA%B4%80%EA%B4%80%EA%B3%84%20EDA.md)
+  - Tableau
 
 ### 3. 머신러닝
 - 1. 넘파이 사이킷런
@@ -92,12 +91,18 @@
      token.word_index)
      
   - embeded()
+    
+    ```python
+    Embedding(16, 4, input_length=2) : 총 입력되는 단어 수는 16개, 임베딩 후 출력되는 벡터 크기는 4, 단어를 매번 2개씩 집어 넣겠다는 뜻
+    model.add(Embedding(26, 10, input_length=4))
     ```
-    Embedding(16, 4, input_length=2) : 총 입력되는 단어 수는 16개, 임베딩 후 출력되는 벡터 크기는 4, 단어를 매번 2개씩 집어 넣겠다는 뜻model.add(Embedding(26, 10, input_length=4))
-
-
+    
+    
+    
   - pad_sequence()
+    
   - 토큰화->token.
+    
 
 - [if \_\_name\_\_ == \_\_main\_\_](https://github.com/squirrelabbit/TIL/blob/master/4.%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC/if%20__name__%20%3D%3D%20__main__.md)
 

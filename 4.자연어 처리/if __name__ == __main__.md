@@ -6,7 +6,7 @@ hello 파일 안의 hello 함수만 가져다 쓰고 싶다면, hello.py 파일 
 
 그글밑의 print()함수는 import된곳에서는 실행안되고 함수만 import됨
 
-![image-20220302150807331](C:\Users\eunwon\AppData\Roaming\Typora\typora-user-images\image-20220302150807331.png)
+![image-20220302150807331](if __name__ == __main__.assets/image-20220302150807331-16462022849814.png)
 
 
 

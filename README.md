@@ -70,38 +70,38 @@
 
 ### 6. 자연어처리(NLP)
 
-#### [자연어 처리](https://github.com/squirrelabbit/TIL/blob/master/4.%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC/%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC%20(NLP).md)
+- [자연어 처리](https://github.com/squirrelabbit/TIL/blob/master/4.%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC/%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC%20(NLP).md)
 
-- 토큰화(text_to_word_sequence() )
+  - 토큰화(text_to_word_sequence() )
 
-- Tokenizer()
+  - Tokenizer()
 
-  token = Tokenizer()             # 토큰화 함수 지정
-  token.fit_on_texts(docs)        # 토큰화 함수에 문장 적용
+      token = Tokenizer()             # 토큰화 함수 지정
+      token.fit_on_texts(docs)        # 토큰화 함수에 문장 적용
 
   - #각 단어 빈도수 : .word_counts
-    token.word_counts
+     token.word_counts
+
   - #총 문장 수 : .document_count
     token.document_count
+    
   - #각 단어가 몇개의 문장에 포함되어 있는가 : .word_docs
      token.word_docs
+     
   - #각 단어에 매겨진 인덱스 값 : .word_index
      token.word_index)
-  
-- embeded()
+     
+  - embeded()
+    ```
+    Embedding(16, 4, input_length=2) : 총 입력되는 단어 수는 16개, 임베딩 후 출력되는 벡터 크기는 4, 단어를 매번 2개씩 집어 넣겠다는 뜻model.add(Embedding(26, 10, input_length=4))
 
-  ```
-  Embedding(16, 4, input_length=2) : 총 입력되는 단어 수는 16개, 임베딩 후 출력되는 벡터 크기는 4, 단어를 매번 2개씩 집어 넣겠다는 뜻
-  
-  model.add(Embedding(26, 10, input_length=4))
-  ```
-  
-- pad_sequence()
-  
-  토큰화->token.
-  
-#### [if \_\_name\_\_ == \_\_main\_\_](https://github.com/squirrelabbit/TIL/blob/master/4.%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC/if%20__name__%20%3D%3D%20__main__.md)
-#### [정규식을 통한 noise 제거](https://github.com/squirrelabbit/TIL/blob/master/4.%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC/%EC%A0%95%EA%B7%9C%EC%8B%9D.md)
+
+  - pad_sequence()
+  - 토큰화->token.
+
+- [if \_\_name\_\_ == \_\_main\_\_](https://github.com/squirrelabbit/TIL/blob/master/4.%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC/if%20__name__%20%3D%3D%20__main__.md)
+
+- [정규식을 통한 noise 제거](https://github.com/squirrelabbit/TIL/blob/master/4.%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC/%EC%A0%95%EA%B7%9C%EC%8B%9D.md)
 
 ## 특강
 
@@ -172,9 +172,8 @@
 
 # 개인 프로젝트
 
-## 1.워크넷 웹크롤링
-## 2. 네이버 지도 크롤링/ 최소거리찾기
-
-## 3. 아이허브 추천알고리즘
-
-## 4. 강서구 공모전
+ 1. 워크넷 웹크롤링
+ 2. 네이버 지도 크롤링/ 최소거리찾기
+ 3. 영화 평점 예측(머신러닝)
+ 4. 아이허브 추천알고리즘
+ 5. 강서구 공모전

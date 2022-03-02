@@ -107,9 +107,9 @@ print("\n각 단어에 매겨진 인덱스 값:\n",  token.word_index)
 
   ** 문장최대길이로 맞춰줌
 
-![image-20220223173655699](자연어 처리 (NLP).assets/image-20220223173655699-16462023506734.png)
+![image-20220223172321944-16462023425531.png](https://github.com/squirrelabbit/TIL/blob/master/4.%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC/%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC%20(NLP).assets/image-20220223172321944-16462023425531.png?raw=true)
 
-  ![image-20220223174444427](자연어 처리 (NLP).assets/image-20220223174444427-16462023547946.png)
+![image-20220223173153282-16462023472923.png](https://github.com/squirrelabbit/TIL/blob/master/4.%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC/%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC%20(NLP).assets/image-20220223173153282-16462023472923.png?raw=true)
 
 ## 텍스트 감성분석
 

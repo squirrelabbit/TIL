@@ -124,7 +124,7 @@
 
 
 
-## 알고리즘 스터디
+## 코딩 스터디
 ### 알고리즘 과정중 정리 문법
 
   - 비트연산자
@@ -165,6 +165,12 @@
 - [BJ2935_noise](https://github.com/squirrelabbit/TIL/blob/master/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/BJ2935_noise.md)
 
 
+
+## SQL
+
+### 프로그래머스
+
+- [select 1~3](https://github.com/squirrelabbit/TIL/blob/master/sql/SELECT%201-3.md)
 
 ## Kaggle code 공부
 

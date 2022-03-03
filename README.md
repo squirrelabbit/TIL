@@ -159,6 +159,7 @@
 - [4843_특별한정렬](https://github.com/squirrelabbit/TIL/blob/master/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/4839_binarysearch.md)
 - [4861 회문](https://github.com/squirrelabbit/TIL/blob/master/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/4861%20%ED%9A%8C%EB%AC%B8.md)(2차원배열)
 - [4865 글자수](https://github.com/squirrelabbit/TIL/blob/master/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/4865%20%EA%B8%80%EC%9E%90%EC%88%98.md)
+- [4869 종이붙이기](https://github.com/squirrelabbit/TIL/blob/master/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/4869%20%EC%A2%85%EC%9D%B4%EB%B6%99%EC%9D%B4%EA%B8%B0.md)
 
 ### 백준
 - [BJ2935_noise](https://github.com/squirrelabbit/TIL/blob/master/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/BJ2935_noise.md)

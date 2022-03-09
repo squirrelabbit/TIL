@@ -160,6 +160,9 @@
 - [4861 회문](https://github.com/squirrelabbit/TIL/blob/master/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/4861%20%ED%9A%8C%EB%AC%B8.md)(2차원배열)
 - [4865 글자수](https://github.com/squirrelabbit/TIL/blob/master/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/4865%20%EA%B8%80%EC%9E%90%EC%88%98.md)
 - [4869 종이붙이기](https://github.com/squirrelabbit/TIL/blob/master/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/4869%20%EC%A2%85%EC%9D%B4%EB%B6%99%EC%9D%B4%EA%B8%B0.md)
+- [4866_괄호검사](https://github.com/squirrelabbit/TIL/blob/master/%EB%A7%A4%EC%9D%BC%EC%8A%A4%ED%84%B0%EB%94%94/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/3.stack/4866_%EA%B4%84%ED%98%B8%EA%B2%80%EC%82%AC.md)
+- [4871_그래프경로](https://github.com/squirrelabbit/TIL/blob/master/%EB%A7%A4%EC%9D%BC%EC%8A%A4%ED%84%B0%EB%94%94/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/3.stack/4871_%EA%B7%B8%EB%9E%98%ED%94%84%EA%B2%BD%EB%A1%9C.md)
+- [4873_반복문자지우기](https://github.com/squirrelabbit/TIL/blob/master/%EB%A7%A4%EC%9D%BC%EC%8A%A4%ED%84%B0%EB%94%94/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/3.stack/4879_%EB%B0%98%EB%B3%B5%EB%AC%B8%EC%9E%90%EC%A7%80%EC%9A%B0%EA%B8%B0.md)
 
 ### 백준
 - [BJ2935_noise](https://github.com/squirrelabbit/TIL/blob/master/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/BJ2935_noise.md)

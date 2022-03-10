@@ -78,43 +78,25 @@
 ### 6. 자연어처리(NLP)
 
 - [자연어 처리](https://github.com/squirrelabbit/TIL/blob/master/4.%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC/%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC%20(NLP).md)
-
-  - 토큰화(text_to_word_sequence() )
-
-  - Tokenizer()
-
-      token = Tokenizer()             # 토큰화 함수 지정
-      token.fit_on_texts(docs)        # 토큰화 함수에 문장 적용
-
-  - #각 단어 빈도수 : .word_counts
-     token.word_counts
-
-  - #총 문장 수 : .document_count
-    token.document_count
-    
-  - #각 단어가 몇개의 문장에 포함되어 있는가 : .word_docs
-     token.word_docs
-     
-  - #각 단어에 매겨진 인덱스 값 : .word_index
-     token.word_index)
-     
-  - embeded()
-    
-    ```python
-    Embedding(16, 4, input_length=2) : 총 입력되는 단어 수는 16개, 임베딩 후 출력되는 벡터 크기는 4, 단어를 매번 2개씩 집어 넣겠다는 뜻
-    model.add(Embedding(26, 10, input_length=4))
-    ```
-    
-    
-    
-  - pad_sequence()
-    
-  - 토큰화->token.
-    
-
 - [if \_\_name\_\_ == \_\_main\_\_](https://github.com/squirrelabbit/TIL/blob/master/4.%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC/if%20__name__%20%3D%3D%20__main__.md)
-
 - [정규식을 통한 noise 제거](https://github.com/squirrelabbit/TIL/blob/master/4.%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC/%EC%A0%95%EA%B7%9C%EC%8B%9D.md)
+
+### 7. 딥러닝을 이용한 자연어처리
+
+- 머신러닝 워크폴로우
+- 텍스트전처리
+  - 토큰화
+  - 정제/정규화
+  - 어간추출/표제어추출
+  - 불용어
+  - 정규표현식
+  - 정수인코딩
+  - 패딩
+  - 원핫인코딩
+  - 데이터분리
+  - 한국어전처리 패키지
+
+
 
 ## 특강
 
@@ -163,6 +145,7 @@
 - [4866_괄호검사](https://github.com/squirrelabbit/TIL/blob/master/%EB%A7%A4%EC%9D%BC%EC%8A%A4%ED%84%B0%EB%94%94/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/3.stack/4866_%EA%B4%84%ED%98%B8%EA%B2%80%EC%82%AC.md)
 - [4871_그래프경로](https://github.com/squirrelabbit/TIL/blob/master/%EB%A7%A4%EC%9D%BC%EC%8A%A4%ED%84%B0%EB%94%94/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/3.stack/4871_%EA%B7%B8%EB%9E%98%ED%94%84%EA%B2%BD%EB%A1%9C.md)
 - [4873_반복문자지우기](https://github.com/squirrelabbit/TIL/blob/master/%EB%A7%A4%EC%9D%BC%EC%8A%A4%ED%84%B0%EB%94%94/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/3.stack/4879_%EB%B0%98%EB%B3%B5%EB%AC%B8%EC%9E%90%EC%A7%80%EC%9A%B0%EA%B8%B0.md)
+- [4874 forth](https://github.com/squirrelabbit/TIL/blob/master/매일스터디/algorithm/알고리즘 실전문제/3.stack/4874 forth.md)
 
 ### 백준
 - [BJ2935_noise](https://github.com/squirrelabbit/TIL/blob/master/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/BJ2935_noise.md)

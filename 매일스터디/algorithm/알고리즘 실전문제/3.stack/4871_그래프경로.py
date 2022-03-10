@@ -6,7 +6,7 @@ def DFS(start, end): #DFS함수를 만드는데 시작과 끝을 인자로 받�
         now=stack.pop() #stack을 pop으로 꺼내 현재값 지정 
         visited[now]=True #현재값이 방문했다면 
         for i in range(1, V+1): #1부터 V까지의 숫자까지(V는 가장 큰 숫자) 
-            if not visited[i] and node[now][i] == 1: #만약 i번째에 방문하지 않고 연결되어있다면 if not visited[i]:visited[i]가false 이고 node[]
+            if not visited[i] and node[now][i] == 1: #만약 i번째에 방문하지 않고 연결되어있다면 if not visited[i]:visited[i]가false 이고 node가 연결되어있다면 
                 stack.append(i) #경로로 될수 있으므로 stack에 추가해준다. 
     if visited[end]: #만약 끝점을 갔었다면 
         return 1 #1을 반환하고 

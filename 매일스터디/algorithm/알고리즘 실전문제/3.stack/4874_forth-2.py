@@ -31,7 +31,7 @@ for tc in range(1,T+1):
                 stack.append(int(c)) #정수로 변환후 stack에 추가 
         else : stack.append(i) 
     
-    print("#{} {}".format(t, result))
+    print("#{} {}".format(tc, result))
 
 
 # 출처: https://totoma3.tistory.com/131 [토토모의 분석일지]

@@ -84,19 +84,8 @@
 ### 7. 딥러닝을 이용한 자연어처리
 
 - [머신러닝 워크폴로우](https://github.com/squirrelabbit/TIL/blob/master/keras_nlp/1.%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0(Machine%20Learning%20Workflow).md)
-- 텍스트전처리
-  - [토큰화](https://github.com/squirrelabbit/TIL/blob/master/keras_nlp/2.%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%A0%84%EC%B2%98%EB%A6%AC.md)
-  - 정제/정규화
-  - 어간추출/표제어추출
-  - 불용어
-  - 정규표현식
-  - 정수인코딩
-  - 패딩
-  - 원핫인코딩
-  - 데이터분리
-  - 한국어전처리 패키지
-
-
+- [텍스트전처리](https://github.com/squirrelabbit/TIL/blob/master/keras_nlp/2.%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%A0%84%EC%B2%98%EB%A6%AC.md)
+- 언어모델
 
 ## 특강
 

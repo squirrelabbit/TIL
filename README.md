@@ -147,6 +147,7 @@
 - [4873_반복문자지우기](https://github.com/squirrelabbit/TIL/blob/master/%EB%A7%A4%EC%9D%BC%EC%8A%A4%ED%84%B0%EB%94%94/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/3.stack/4879_%EB%B0%98%EB%B3%B5%EB%AC%B8%EC%9E%90%EC%A7%80%EC%9A%B0%EA%B8%B0.md)
 - [4874 forth](https://github.com/squirrelabbit/TIL/blob/master/%EB%A7%A4%EC%9D%BC%EC%8A%A4%ED%84%B0%EB%94%94/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/3.stack/4874%20forth.md)
 - [4875 미로](https://github.com/squirrelabbit/TIL/blob/master/%EB%A7%A4%EC%9D%BC%EC%8A%A4%ED%84%B0%EB%94%94/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/3.stack/4875%20%EB%AF%B8%EB%A1%9C.md)
+- [4880 토너먼트 카드게임](https://github.com/squirrelabbit/TIL/blob/master/%EB%A7%A4%EC%9D%BC%EC%8A%A4%ED%84%B0%EB%94%94/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/3.stack/4880%20%ED%86%A0%EB%84%88%EB%A8%BC%ED%8A%B8%20%EC%B9%B4%EB%93%9C%EA%B2%8C%EC%9E%84.md)
 
 ### 백준
 - [BJ2935_noise](https://github.com/squirrelabbit/TIL/blob/master/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/BJ2935_noise.md)

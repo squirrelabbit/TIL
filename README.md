@@ -86,7 +86,13 @@
 - [머신러닝 워크폴로우](https://github.com/squirrelabbit/TIL/blob/master/4.%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC/1.%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0(Machine%20Learning%20Workflow).md)
 - [텍스트전처리](https://github.com/squirrelabbit/TIL/blob/master/4.%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC/2.%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%A0%84%EC%B2%98%EB%A6%AC.md)
 - [언어모델](https://github.com/squirrelabbit/TIL/blob/master/4.%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC/3.%20%EC%96%B8%EC%96%B4%EB%AA%A8%EB%8D%B8.md)
-- 카운트 기반의 단어 표현
+- [카운트 기반의 단어 표현](https://github.com/squirrelabbit/TIL/blob/master/4.%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC/4.%20%EC%B9%B4%EC%9A%B4%ED%8A%B8%20%EA%B8%B0%EB%B0%98%EC%9D%98%20%EB%8B%A8%EC%96%B4%20%ED%91%9C%ED%98%84.md)
+
+
+
+### 8. [SQL](https://github.com/squirrelabbit/TIL/blob/master/SQL/sql%20%EA%B8%B0%EC%B4%88.md)
+
+
 
 ## 특강
 
@@ -138,7 +144,8 @@
 - [4874 forth](https://github.com/squirrelabbit/TIL/blob/master/%EB%A7%A4%EC%9D%BC%EC%8A%A4%ED%84%B0%EB%94%94/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/3.stack/4874%20forth.md)
 - [4875 미로](https://github.com/squirrelabbit/TIL/blob/master/%EB%A7%A4%EC%9D%BC%EC%8A%A4%ED%84%B0%EB%94%94/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/3.stack/4875%20%EB%AF%B8%EB%A1%9C.md)
 - [4880 토너먼트 카드게임](https://github.com/squirrelabbit/TIL/blob/master/%EB%A7%A4%EC%9D%BC%EC%8A%A4%ED%84%B0%EB%94%94/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/3.stack/4880%20%ED%86%A0%EB%84%88%EB%A8%BC%ED%8A%B8%20%EC%B9%B4%EB%93%9C%EA%B2%8C%EC%9E%84.md)
-- 4881 배열 최소합
+- [4881 배열 최소합](https://github.com/squirrelabbit/TIL/blob/master/%EB%A7%A4%EC%9D%BC%EC%8A%A4%ED%84%B0%EB%94%94/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/3.stack/4881%20%EB%B0%B0%EC%97%B4%20%EC%B5%9C%EC%86%8C%ED%95%A9.md)
+- 5097 회전
 
 ### 백준
 - [BJ2935_noise](https://github.com/squirrelabbit/TIL/blob/master/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/BJ2935_noise.md)

@@ -1,8 +1,8 @@
 #  데이터베이스
 
-![image-20220316110829674](sql 기초.assets/image-20220316110829674.png)
+![image-20220316110829674.png](https://github.com/squirrelabbit/TIL/blob/master/SQL/sql%20%EA%B8%B0%EC%B4%88.assets/image-20220316110829674.png?raw=true)
 
-![image-20220316110854565](sql 기초.assets/image-20220316110854565.png)
+![image-20220316110854565.png](https://github.com/squirrelabbit/TIL/blob/master/SQL/sql%20%EA%B8%B0%EC%B4%88.assets/image-20220316110854565.png?raw=true)
 
 \- 1970년 관계형 모델이 제안되면서 현재의 MySQL, Oracle 등 Relational Database(RDBMS)가 보편적
 
@@ -12,9 +12,9 @@
 
 ## 스키마(RDBMS)
 
-![image-20220316111036855](sql 기초.assets/image-20220316111036855.png)
+![image-20220316111036855.png](https://github.com/squirrelabbit/TIL/blob/master/SQL/sql%20%EA%B8%B0%EC%B4%88.assets/image-20220316111036855.png?raw=true)
 
-![image-20220316111102222](sql 기초.assets/image-20220316111102222.png)
+![image-20220316111102222.png](https://github.com/squirrelabbit/TIL/blob/master/SQL/sql%20%EA%B8%B0%EC%B4%88.assets/image-20220316111102222.png?raw=true)
 
 # SQL(Structured Query Language)
 
@@ -24,7 +24,7 @@
 
 ● SQL의 유형
 
-![image-20220316111255098](sql 기초.assets/image-20220316111255098.png)
+![image-20220316111255098.png](https://github.com/squirrelabbit/TIL/blob/master/SQL/sql%20%EA%B8%B0%EC%B4%88.assets/image-20220316111255098.png?raw=true)
 
 ## DDL/DML
 
@@ -60,7 +60,7 @@
 
 ● Foreign Key는 하나 이상의 테이블을 서로 연결하여 사용하는 관계형 데이터베이스에서 하나의 테이블 속성 또는 속성 집합이 다른 테이블의 기본키가 되는 것을 의미(그림2
 
-![image-20220316111845992](sql 기초.assets/image-20220316111845992.png)
+![image-20220316111845992.png](https://github.com/squirrelabbit/TIL/blob/master/SQL/sql%20%EA%B8%B0%EC%B4%88.assets/image-20220316111845992.png?raw=true)
 
 ## ERD(Entity Relationship Diagram) 
 
@@ -78,7 +78,7 @@
 
 ### show databases;
 
-![image-20220307144357178](sql 기초.assets/image-20220307144357178.png)
+![image-20220307144357178.png](https://github.com/squirrelabbit/TIL/blob/master/SQL/sql%20%EA%B8%B0%EC%B4%88.assets/image-20220307144357178.png?raw=true)
 
 ### 조건 like
 
@@ -110,9 +110,9 @@ export / import가능
 
 # 정렬(orderby)
 
-![image-20220307152723977](sql 기초.assets/image-20220307152723977.png)
+![image-20220307152711957.png](https://github.com/squirrelabbit/TIL/blob/master/SQL/sql%20%EA%B8%B0%EC%B4%88.assets/image-20220307152711957.png?raw=true)
 
-![image-20220307152746976](sql 기초.assets/image-20220307152746976.png)
+![image-20220307152746976.png](https://github.com/squirrelabbit/TIL/blob/master/SQL/sql%20%EA%B8%B0%EC%B4%88.assets/image-20220307152746976.png?raw=true)
 
 
 
@@ -120,45 +120,45 @@ export / import가능
 
 ## distinct
 
-![image-20220307153244010](sql 기초.assets/image-20220307153244010.png)
+![image-20220307153244010.png](https://github.com/squirrelabbit/TIL/blob/master/SQL/sql%20%EA%B8%B0%EC%B4%88.assets/image-20220307153244010.png?raw=true)
 
 ## All
 
-![image-20220307153315124](sql 기초.assets/image-20220307153315124.png)
+![image-20220307153315124.png](https://github.com/squirrelabbit/TIL/blob/master/SQL/sql%20%EA%B8%B0%EC%B4%88.assets/image-20220307153315124.png?raw=true)
 
 ## count:로우갯수
 
-![image-20220307153343568](sql 기초.assets/image-20220307153343568.png)
+![image-20220307153343568.png](https://github.com/squirrelabbit/TIL/blob/master/SQL/sql%20%EA%B8%B0%EC%B4%88.assets/image-20220307153343568.png?raw=true)
 
-![image-20220307153402998](sql 기초.assets/image-20220307153402998.png)
+![image-20220307153402998.png](https://github.com/squirrelabbit/TIL/blob/master/SQL/sql%20%EA%B8%B0%EC%B4%88.assets/image-20220307153402998.png?raw=true)
 
-![image-20220307153421610](sql 기초.assets/image-20220307153421610.png)
+![image-20220307153421610.png](https://github.com/squirrelabbit/TIL/blob/master/SQL/sql%20%EA%B8%B0%EC%B4%88.assets/image-20220307153421610.png?raw=true)
 
 ## distinct + count
 
-![image-20220307153448953](sql 기초.assets/image-20220307153448953.png)
+![image-20220307153448953.png](https://github.com/squirrelabbit/TIL/blob/master/SQL/sql%20%EA%B8%B0%EC%B4%88.assets/image-20220307153448953.png?raw=true)
 
 # 별칭
 
-![image-20220307153547112](sql 기초.assets/image-20220307153547112.png)
+![image-20220307153547112.png](https://github.com/squirrelabbit/TIL/blob/master/SQL/sql%20%EA%B8%B0%EC%B4%88.assets/image-20220307153547112.png?raw=true)
 
-![image-20220307153610930](sql 기초.assets/image-20220307153610930.png)
+![image-20220307153610930.png](https://github.com/squirrelabbit/TIL/blob/master/SQL/sql%20%EA%B8%B0%EC%B4%88.assets/image-20220307153610930.png?raw=true)
 
 # 조건절(where, limit)
 
 ## 조건절 연산자
 
-![image-20220307153716552](sql 기초.assets/image-20220307153716552.png)
+![image-20220307153716552.png](https://github.com/squirrelabbit/TIL/blob/master/SQL/sql%20%EA%B8%B0%EC%B4%88.assets/image-20220307153716552.png?raw=true)
 
-![image-20220307153727129](sql 기초.assets/image-20220307153727129.png)
+![image-20220307153727129.png](https://github.com/squirrelabbit/TIL/blob/master/SQL/sql%20%EA%B8%B0%EC%B4%88.assets/image-20220307153727129.png?raw=true)
 
 ## and &&
 
-![image-20220307174735291](sql 기초.assets/image-20220307174735291.png)
+![image-20220307174735291.png](https://github.com/squirrelabbit/TIL/blob/master/SQL/sql%20%EA%B8%B0%EC%B4%88.assets/image-20220307174735291.png?raw=true)
 
 ## limit
 
-![image-20220307174821966](sql 기초.assets/image-20220307174821966.png)
+![image-20220307174821966.png](https://github.com/squirrelabbit/TIL/blob/master/SQL/sql%20%EA%B8%B0%EC%B4%88.assets/image-20220307174821966.png?raw=true)
 
 ## isnull isnotnull
 
@@ -166,11 +166,11 @@ export / import가능
 
 -  아래 데이터에서 name이 South Korea가 아닌 나라의 수를 세려면?
 
-![image-20220307175054036](sql 기초.assets/image-20220307175054036.png)
+![image-20220307175054036.png](https://github.com/squirrelabbit/TIL/blob/master/SQL/sql%20%EA%B8%B0%EC%B4%88.assets/image-20220307175054036.png?raw=true)
 
 ## if null
 
-![image-20220307175325942](sql 기초.assets/image-20220307175325942.png)
+![image-20220307175325942.png](https://github.com/squirrelabbit/TIL/blob/master/SQL/sql%20%EA%B8%B0%EC%B4%88.assets/image-20220307175325942.png?raw=true)
 
 # join
 

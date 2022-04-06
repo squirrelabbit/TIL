@@ -7,7 +7,7 @@
 - [리스트](https://github.com/squirrelabbit/TIL/blob/master/0.%ED%8C%8C%EC%9D%B4%EC%8D%AC/%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
 - [문자열](https://github.com/squirrelabbit/TIL/blob/master/0.%ED%8C%8C%EC%9D%B4%EC%8D%AC/%EB%AC%B8%EC%9E%90%EC%97%B4.md)
 - [딕셔너리](https://github.com/squirrelabbit/TIL/blob/master/0.%ED%8C%8C%EC%9D%B4%EC%8D%AC/%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC.md)
-- 데이터 프레임
+- [데이터 프레임](https://github.com/squirrelabbit/TIL/blob/master/0.%ED%8C%8C%EC%9D%B4%EC%8D%AC/%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%94%84%EB%A0%88%EC%9E%84.md)
 
 ### 2. 웹크롤링 
 
@@ -131,6 +131,7 @@
 - [5097 회전](https://github.com/squirrelabbit/TIL/blob/master/%EB%A7%A4%EC%9D%BC%EC%8A%A4%ED%84%B0%EB%94%94/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/4.que/5097%20%ED%9A%8C%EC%A0%84.md)
 - [5105 미로의 거리](https://github.com/squirrelabbit/TIL/blob/master/%EB%A7%A4%EC%9D%BC%EC%8A%A4%ED%84%B0%EB%94%94/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/4.que/5105%20%EB%AF%B8%EB%A1%9C%EC%9D%98%20%EA%B1%B0%EB%A6%AC.md)
 - [5099 피자굽기](https://github.com/squirrelabbit/TIL/blob/master/%EB%A7%A4%EC%9D%BC%EC%8A%A4%ED%84%B0%EB%94%94/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/4.que/5099%20%ED%94%BC%EC%9E%90%EA%B5%BD%EA%B8%B0.md)
+- 5102_노드의거리
 
 ### 백준
 - [BJ2935_noise](https://github.com/squirrelabbit/TIL/blob/master/algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/BJ2935_noise.md)

@@ -11,7 +11,6 @@ def BFS(): #가로탐색
                     answer = Distance[y] #거리를 답으로 냄
                     break
 
-
 T = int(input())
 for tc in range(1,T+1):
     V,E = list(map(int,input().split())) #노드갯수/ 간선갯수

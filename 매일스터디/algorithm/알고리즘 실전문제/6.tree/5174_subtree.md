@@ -52,7 +52,7 @@ for tc in range(1, T+1):
     
     # 문제에 주어진것 처럼 row 기준으로 0, 1로 활용
     tree = [[0 for _ in range(E+2)]for _ in range(2)] 
-    #노드번호 = E+!=> 인덱스때문에 E+1+1
+    #노드번호 = E+1=> 인덱스때문에 E+1+1
 
     for i in range(E): #간선E개에 대해서
         
